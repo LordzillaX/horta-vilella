@@ -6,4 +6,10 @@ font-family: Arial;
 
 h1{
   color: white;
-}
+  .produto{
+    border: 2px solid green;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  }
